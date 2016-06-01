@@ -75,3 +75,6 @@ VCS->Enable Version....->Git->OK
 Add files using VCS drop down box
 commit
 push->select remote-> copy url from github
+
+***
+To deploy to robot, gradleprojects->other->deploy (double click)
