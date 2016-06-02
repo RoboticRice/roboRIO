@@ -6,6 +6,7 @@ Install JDK 8 or higher
 Install 20xx FRC update suite (https://wpilib.screenstepslive.com/s/4485/m/13503/l/144150?data-resolve-url=true&data-manual-id=13503)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/273817-updating-your-roborio-firmware (Update roboRIO Firmware)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/144984-imaging-your-roborio (Image roboRIO)
+https://wpilib.screenstepslive.com/s/4485/m/13503/l/145002-installing-eclipse-c-java (Install Eclipse w/ WPIlib plugins for next step to work)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/288822-installing-java-8-on-the-roborio-using-the-frc-roborio-java-installer-java-only (install Java on roboRIO)
 
 #TO DRIVE roboRIO
