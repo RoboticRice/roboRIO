@@ -2,6 +2,7 @@
 All (personal) projects regarding the roboRIO (2015-current)
 \\wiring diagram (https://wpilib.screenstepslive.com/s/4485/m/13503/l/144971?data-resolve-url=true&data-manual-id=13503)
 #TO SET-UP roboRIO for first use
+Install JDK 8 or higher
 Install 20xx FRC update suite (https://wpilib.screenstepslive.com/s/4485/m/13503/l/144150?data-resolve-url=true&data-manual-id=13503)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/273817-updating-your-roborio-firmware (Update roboRIO Firmware)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/144984-imaging-your-roborio (Image roboRIO)
@@ -10,7 +11,7 @@ https://wpilib.screenstepslive.com/s/4485/m/13503/l/288822-installing-java-8-on-
 #TO DRIVE roboRIO
 
 #TO PROGRAM roboRIO
-Install IntelliJ & git & jdk
+Install IntelliJ & git
 
 Open IntelliJ
 Create New Project -> Gradle -> Java (checked) -> NEXT
