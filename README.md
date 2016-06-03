@@ -12,7 +12,10 @@ https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radi
 
 #TO DRIVE roboRIO
 
-#TO PROGRAM roboRIO
+#TO PROGRAM roboRIO with Eclipse
+https://wpilib.screenstepslive.com/s/4485/m/13809/l/145307?data-resolve-url=true&data-manual-id=13809
+
+#TO PROGRAM roboRIO with IntelliJ
 Install IntelliJ & git
 
 Open IntelliJ
