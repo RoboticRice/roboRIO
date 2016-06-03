@@ -8,6 +8,8 @@ https://wpilib.screenstepslive.com/s/4485/m/13503/l/273817-updating-your-roborio
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/144984-imaging-your-roborio (Image roboRIO)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/145002-installing-eclipse-c-java (Install Eclipse w/ WPIlib plugins for next step to work)
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/288822-installing-java-8-on-the-roborio-using-the-frc-roborio-java-installer-java-only (install Java on roboRIO)
+LAST STEP:
+open FRC Radio Configuration Utility, disable wifi, connect ethernet cable to PC ethernet port & bridge 802.3af POE port -> set team number & WEPkey (optional) -> OM5P_AN -> 2.4Ghz -> USA -> Load Firmware -> Configure
 
 #TO DRIVE roboRIO
 
